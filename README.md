@@ -1,2 +1,4 @@
 # Project
-Simple vehicle classification system into three classes: cars, motorcycles, and trucks
+Vehicle Detection and Classification using Nvidia Jetson Nano
+
+
