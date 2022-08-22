@@ -29,7 +29,7 @@ To develop a system that can detect and classify vehicles using image classifica
                                            vid.mp4  # video
                                            path/  # directory
                                           'path/*.jpg'  # glob
-                                          'https://youtu.be/Zgi9g1ksQHc'  # YouTube
+                                          (https://www.youtube.com/watch?v=tOJpQIgWdpI&t=1s)'  # YouTube
                                           'rtsp://example.com/media.mp4'  # RTSP, RTMP, HTTP stream
 
 # YoloV5 Github
