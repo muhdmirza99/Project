@@ -23,7 +23,7 @@ To develop a system that can detect and classify vehicles using image classifica
 4. Inference
   - For inference, a video of vehicles are recorded and tested with the trained model.
   
- python detect.py --weights project_1 --source 0      # webcam
+ python detect.py --weights project_1.pt --source 0      # webcam
  
                                            img.jpg  # image
                                            vid.mp4  # video
