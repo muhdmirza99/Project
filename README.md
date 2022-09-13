@@ -6,6 +6,12 @@ Vehicle Detection and Classification using Nvidia Jetson Nano
 # Background
 To develop a system that can detect and classify vehicles using image classification. For this project, cars, motorcycles, and lorries were used as datasets. 
 
+# Hardware Required
+1. Jetson Nano
+2. Mouse and Keyboard
+3. Logitech C270 HD Webcam
+4. Wifi Adapter
+
 # Methodology
 1. Dataset Collection
   - Obtain data from Google Images (depends on your scope; datasets are vast available in the Internet)
